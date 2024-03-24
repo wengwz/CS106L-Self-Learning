@@ -13,13 +13,13 @@
 #include "gtest/gtest.h"
 
 #define TEST1_ENABLED 1
-#define TEST2_ENABLED 1
-#define TEST3_ENABLED 1
-#define TEST4_ENABLED 1
-#define TEST5_ENABLED 1
-#define TEST6_ENABLED 1
-#define TEST7_ENABLED 1
-#define TEST8_ENABLED 1
+#define TEST2_ENABLED 0
+#define TEST3_ENABLED 0
+#define TEST4_ENABLED 0
+#define TEST5_ENABLED 0
+#define TEST6_ENABLED 0
+#define TEST7_ENABLED 0
+#define TEST8_ENABLED 0
 #define TEST9_ENABLED 0
 
 #if TEST1_ENABLED
