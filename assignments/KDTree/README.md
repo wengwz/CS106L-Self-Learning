@@ -1,5 +1,5 @@
 # KDTree
-In this programming task, you will implement a k-dimension tree which is designed for efficient storage and query of multi-dimension data. For detailed description of KDTree and guidance on this assignment, you can refer to this [document](./doc/005_assignment_3_kdtree.pdf). To build and test your code implementation, you can refer to the following commands:
+In this programming assignment, you will implement a k-dimension tree which is designed for efficient storage and query of multi-dimension data. For detailed description of KDTree and guidance on this assignment, you can refer to this [document](./doc/005_assignment_3_kdtree.pdf). To build and test your codes, you can refer to following commands:
 ```shell
 mkdir -p build && cd build
 cmake ..
